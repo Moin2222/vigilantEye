@@ -86,7 +86,7 @@ This project helped us:
 
 👨‍💻 AUTHOR
 ------------
-Ahmad Razzaq
+Muhammad Moin
 
 ---
 📸 SCREENSHOTS
